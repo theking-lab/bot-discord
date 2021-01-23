@@ -9,7 +9,7 @@
     "discord.js": "^12.5.1"
   },
 "scripts": {
-"start": "npm start"
+"start": "node index.js"
 }
 }
 

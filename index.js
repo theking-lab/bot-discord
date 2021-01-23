@@ -10,4 +10,4 @@ bot.user.setStatus("online")
 bot.user.setActivity({ name : "!help", type: "PLAYING" })
 
 })
-client.login(process.env.TOCKEN);
+client.login(process.env.TOKEN);
